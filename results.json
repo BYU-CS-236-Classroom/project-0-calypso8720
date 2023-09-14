@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test.py::test_project1",
+            "output": "\n\nPassed test: input100.txt\n\n",
+            "visibility": "visible"
+        }
+    ]
+}
